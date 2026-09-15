@@ -1,0 +1,6 @@
+{
+  "name": "Hamro HMS — Enterprise Hospital Management System (NIRC)",
+  "description": "Enterprise-grade Hospital Information and Management System (HIMS) for government hospitals, private institutions, and clinics in Nepal, powered by NIRC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
